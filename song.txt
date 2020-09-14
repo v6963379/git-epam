@@ -5,3 +5,5 @@ Third string
 Fours string
 
 Six string
+
+Open git gui&
