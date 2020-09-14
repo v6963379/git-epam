@@ -7,3 +7,6 @@ Fours string
 Six string
 
 Open git gui&
+
+some text
+-----------------
