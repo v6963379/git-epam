@@ -6,6 +6,7 @@ Fours string
 
 Six string
 
+<<<<<<< HEAD
 Open git gui&
 
 
@@ -13,3 +14,6 @@ download with gui
 
 some text
 -----------------
+=======
+Open git gui&
+>>>>>>> parent of d65593c... add string with dashline
